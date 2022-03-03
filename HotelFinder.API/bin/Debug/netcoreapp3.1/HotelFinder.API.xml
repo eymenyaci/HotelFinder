@@ -17,6 +17,20 @@
             <param name="id"></param>
             <returns></returns>
         </member>
+        <member name="M:HotelFinder.API.Controllers.HotelsController.GetByName(System.String)">
+            <summary>
+            Get Hotel By Name
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HotelFinder.API.Controllers.HotelsController.GetByCity(System.String)">
+            <summary>
+            Get Hotel By City
+            </summary>
+            <param name="city"></param>
+            <returns></returns>
+        </member>
         <member name="M:HotelFinder.API.Controllers.HotelsController.Post(HotelFinder.Entities.Hotel)">
             <summary>
             Create an Hotel

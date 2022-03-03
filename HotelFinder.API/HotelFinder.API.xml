@@ -10,7 +10,7 @@
             </summary>
             <returns></returns>
         </member>
-        <member name="M:HotelFinder.API.Controllers.HotelsController.GetByIdAndName(System.Int32,System.String)">
+        <member name="M:HotelFinder.API.Controllers.HotelsController.GetById(System.Int32)">
             <summary>
             Get Hotel By Id
             </summary>
